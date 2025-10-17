@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Name: Michelle Muddasu
+Major: CS & Behavioral Neuroscience
+College/Year of Grad: Northeastern University, 2029
 <!--
 **michellem621/michellem621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
